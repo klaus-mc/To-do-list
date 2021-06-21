@@ -1,6 +1,6 @@
 # To-do-list with Javascript
 
-This is a TO-do-list I created using javascript which can help to note activities which we can carry out throughout the day,week,month etc...
+This is a To-do-list I created using javascript which can help to note activities which we can carry out throughout the day,week,month etc...
 By clicking https://klaus-mc.github.io/To-do-list/[here] you can access to the app and see the functionalities
 
 media:To-do-list.png?raw=true[To-do-list]
