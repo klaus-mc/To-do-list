@@ -123,6 +123,9 @@ background-color: gainsboro;
 	background-color: gainsboro;
 }
 
+.remove{
+	display: none;
+}
 
 @media (orientation: portrait)
 {

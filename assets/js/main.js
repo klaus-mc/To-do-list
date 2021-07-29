@@ -24,11 +24,18 @@ document.addEventListener('DOMContentLoaded', function() {
 	 	
 	 })
 
-  //mark the tasks done
-
+      //mark the tasks done
   list.addEventListener('click', (e) =>{ 	
  	if(e.target.tagName == 'LI'){
  		e.target.classList.toggle('checked');
+ 	}
+ })
+
+ 
+  //remove the tasks from the list
+  list.addEventListener('dblclick', (e) =>{ 	
+ 	if(e.target.tagName == 'LI'){
+ 		e.target.classList.toggle('remove');
  	}
  })
 
