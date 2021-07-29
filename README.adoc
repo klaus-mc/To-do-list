@@ -1,6 +1,7 @@
 # To-do-list with Javascript
 
 This is a To-do-list I created using javascript which can help to note activities which we can carry out throughout the day,week,month etc...
+You can remove a task from the list by double clicking on the task and you can mark it as done by clicking on the task.
 By clicking https://klaus-mc.github.io/To-do-list/[here] you can access to the app and see the functionalities
 
 image:To-do-list.png?raw=true[TODO APP]
